@@ -1,0 +1,23 @@
+{
+  "name": "ts_basics",
+  "version": "1.0.0",
+  "description": "a small project to test typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mateus",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rakoski/ts_basics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rakoski/ts_basics/issues"
+  },
+  "homepage": "https://github.com/Rakoski/ts_basics#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
