@@ -2,7 +2,6 @@ interface IPessoa {
     nome: string;
     idade: number;
     altura: number;
-    peso: number;
 }
 
 class Pessoa implements IPessoa{
