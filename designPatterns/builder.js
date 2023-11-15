@@ -38,3 +38,4 @@ class UserBuilder {
 
 const builder = new UserBuilder('Mateus')
 const user = builder.setAddress(new Address('12345-678', 'Avenida Getúlio Vargas')).build()
+console.log(user)
